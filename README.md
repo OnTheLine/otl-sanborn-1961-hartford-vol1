@@ -18,3 +18,17 @@ US Library of Congress, “Sanborn Fire Insurance Maps Online Checklist,” http
 - Hartford volume 2, 1922-1950 https://www.loc.gov/item/sanborn01132_010/ (not yet available as of June 2021).
 - Hartford volume 3, 1922-1950 https://www.loc.gov/item/sanborn01132_011/
 - Hartford volume 4, 1923-1950 https://www.loc.gov/item/sanborn01132_012/ (not yet available as of June 2021).
+
+## Notes on volume 1
+- page 4 Constitution Plaza (underneath "practically all buildings in this block removed" Front St. Compare with 1950 version.
+- page 22 Ados Israel Synagogue, Market and Marsh Ct
+- page 41 Emanuel Synagogue, Agudas Achim Synagogue
+- page 42 Hebrew Ladies Home, Albany and Deerfield
+- page 47 Beth Hamedrash Hagodol Synagogue, Garden St; also Synagogue at Mather and Bedford St
+- page 53 Bellevue Square USHA project, 1940-41-42
+- page 62 (and prior pages) several churches labeled as "colored"
+- page 64 Congregation Beth Israel at Nelson and Barbour St
+- page 65 Nelton Court USHA project
+- page 78 Hartford Public High School on Hopkins St
+- page 83 Ateres Knesseth Israel Synagogue, Enfield St
+- page 85 and 86 Stowe Village, Hartford Housing Authority
