@@ -29,7 +29,7 @@ US Library of Congress, “Sanborn Fire Insurance Maps Online Checklist,” http
 - page 47 Beth Hamedrash Hagodol Synagogue, Garden St; also Synagogue at Mather and Bedford St
 - page 53 Bellevue Square USHA project, 1940-41-42
 - page 62 (and prior pages) several churches labeled as "colored"
-- page 64 Congregation Beth Israel at Nelson and Barbour St
+- page 64 Congregation Beth Israel at Nelson and Barbour St (NOTE: should be Bess Israel, later known as the Barbour Street Shul)
 - page 65 Nelton Court USHA project
 - page 78 Hartford Public High School on Hopkins St
 - page 83 Ateres Knesseth Israel Synagogue, Enfield St
